@@ -1,16 +1,16 @@
 ---
-title: Photo Album
+title: Photos
 description: A collection of photos from various events.
 date: '2023-11-06'
 aliases:
-  - photos
   - photo
+  - album
 lastmod: '2023-11-06'
 menu:
     main: 
         weight: -90
         params:
-            icon: user
+            icon: photo
 ---
 
-
+Under construction!
