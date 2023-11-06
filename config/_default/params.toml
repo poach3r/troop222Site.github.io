@@ -4,7 +4,7 @@ favicon = "/favicon.png"
 
 [footer]
 since = 2023
-customText = "Built with pride by H.M"
+customText = "Built by H.M"
 
 [dateFormat]
 published = "Jan 02, 2006"
