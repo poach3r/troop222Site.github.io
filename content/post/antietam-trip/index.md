@@ -1,7 +1,7 @@
 +++
 author = "H.M"
 title = "Upcoming Antietam Trip"
-date = "2023-03-11"
+date = "2023-0-11"
 description = "Information about the upcoming trip to the site of the Battle of Antietam."
 
 categories = [
