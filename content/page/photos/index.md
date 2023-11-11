@@ -13,4 +13,6 @@ menu:
             icon: photo
 ---
 
-{{< image-gallery gallery_dir="album" >}}
+![](PXL_20231111_151357372.jpg)
+![](PXL_20231111_151436260.jpg)
+![](IMG-20231111-WA0001.jpg)
