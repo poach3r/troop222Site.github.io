@@ -13,4 +13,4 @@ menu:
             icon: photo
 ---
 
-Under construction!
+{{< image-gallery gallery_dir="album" >}}
